@@ -1,0 +1,300 @@
+{
+  "regions": {
+    "data": {
+      "results": [
+        {
+          "id": 64,
+          "isActive": true,
+          "createdAt": "2024-03-20T04:41:21.828Z",
+          "name": "Paris"
+        },
+        {
+          "id": 63,
+          "isActive": true,
+          "createdAt": "2024-02-15T09:42:02.463Z",
+          "name": "new reg"
+        },
+        {
+          "id": 62,
+          "isActive": true,
+          "createdAt": "2024-01-31T13:49:59.189Z",
+          "name": "Demo"
+        },
+        {
+          "id": 61,
+          "isActive": true,
+          "createdAt": "2024-01-24T06:06:45.504Z",
+          "name": "New region"
+        },
+        {
+          "id": 60,
+          "isActive": true,
+          "createdAt": "2023-12-29T08:24:18.289Z",
+          "name": "Sexual Health"
+        },
+        {
+          "id": 59,
+          "isActive": true,
+          "createdAt": "2023-12-19T12:30:50.472Z",
+          "name": "Production Test"
+        },
+        {
+          "id": 58,
+          "isActive": true,
+          "createdAt": "2023-12-14T06:01:39.309Z",
+          "name": "America US"
+        },
+        {
+          "id": 57,
+          "isActive": true,
+          "createdAt": "2023-12-04T04:33:24.928Z",
+          "name": "India"
+        },
+        {
+          "id": 56,
+          "isActive": true,
+          "createdAt": "2023-11-29T10:41:04.555Z",
+          "name": "Östergötland"
+        },
+        {
+          "id": 55,
+          "isActive": true,
+          "createdAt": "2023-11-29T10:41:00.180Z",
+          "name": "Örebro"
+        },
+        {
+          "id": 54,
+          "isActive": true,
+          "createdAt": "2023-11-29T10:40:54.982Z",
+          "name": "Västra Götaland"
+        },
+        {
+          "id": 53,
+          "isActive": true,
+          "createdAt": "2023-11-29T10:40:48.726Z",
+          "name": "Västmanland"
+        },
+        {
+          "id": 52,
+          "isActive": true,
+          "createdAt": "2023-11-29T10:40:43.408Z",
+          "name": "Västernorrland"
+        },
+        {
+          "id": 51,
+          "isActive": true,
+          "createdAt": "2023-11-29T10:40:39.252Z",
+          "name": "Västerbotten"
+        },
+        {
+          "id": 50,
+          "isActive": true,
+          "createdAt": "2023-11-29T10:40:33.979Z",
+          "name": "Värmland"
+        },
+        {
+          "id": 49,
+          "isActive": true,
+          "createdAt": "2023-11-29T10:40:28.283Z",
+          "name": "Uppsala"
+        },
+        {
+          "id": 48,
+          "isActive": true,
+          "createdAt": "2023-11-29T10:40:22.932Z",
+          "name": "Södermanland"
+        },
+        {
+          "id": 47,
+          "isActive": true,
+          "createdAt": "2023-11-29T10:40:16.878Z",
+          "name": "Skåne"
+        },
+        {
+          "id": 46,
+          "isActive": true,
+          "createdAt": "2023-11-29T10:40:12.386Z",
+          "name": "Norrbotten"
+        },
+        {
+          "id": 45,
+          "isActive": true,
+          "createdAt": "2023-11-29T10:40:07.083Z",
+          "name": "Kronoberg"
+        },
+        {
+          "id": 44,
+          "isActive": true,
+          "createdAt": "2023-11-29T10:40:02.399Z",
+          "name": "Kalmar"
+        },
+        {
+          "id": 43,
+          "isActive": true,
+          "createdAt": "2023-11-29T10:39:58.114Z",
+          "name": "Jönköping"
+        },
+        {
+          "id": 42,
+          "isActive": true,
+          "createdAt": "2023-11-29T10:39:53.493Z",
+          "name": "Jämtland"
+        },
+        {
+          "id": 41,
+          "isActive": true,
+          "createdAt": "2023-11-29T10:39:49.356Z",
+          "name": "Halland"
+        },
+        {
+          "id": 40,
+          "isActive": true,
+          "createdAt": "2023-11-29T10:39:44.368Z",
+          "name": "Gävleborg"
+        },
+        {
+          "id": 39,
+          "isActive": true,
+          "createdAt": "2023-11-29T10:39:38.970Z",
+          "name": "Gotland"
+        },
+        {
+          "id": 38,
+          "isActive": true,
+          "createdAt": "2023-11-29T10:39:33.937Z",
+          "name": "Dalarna"
+        },
+        {
+          "id": 37,
+          "isActive": true,
+          "createdAt": "2023-11-29T10:39:27.319Z",
+          "name": "Blekinge"
+        },
+        {
+          "id": 36,
+          "isActive": false,
+          "createdAt": "2023-11-29T10:38:15.875Z",
+          "name": "Frankfurt"
+        },
+        {
+          "id": 35,
+          "isActive": true,
+          "createdAt": "2023-11-29T10:20:20.104Z",
+          "name": "Stockholm"
+        }
+      ]
+    }
+  },
+
+  "clinics": {
+    "data": {
+      "result": [
+        {
+          "id": 40,
+          "name": "New clinic ",
+          "contactNumber": "5687452569",
+          "countryCode": "+46",
+          "addressLine1": "Ahmedabad ",
+          "addressLine2": null,
+          "isActive": true,
+          "createdAt": "2024-03-19T09:29:09.577Z",
+          "region": {
+            "id": 35,
+            "isActive": true,
+            "name": "Stockholm"
+          }
+        },
+        {
+          "id": 39,
+          "name": "CIMS",
+          "contactNumber": "5874521478",
+          "countryCode": "+46",
+          "addressLine1": "aaa",
+          "addressLine2": "aaa",
+          "isActive": true,
+          "createdAt": "2024-03-04T07:49:00.075Z",
+          "region": {
+            "id": 35,
+            "isActive": true,
+            "name": "Stockholm"
+          }
+        },
+        {
+          "id": 37,
+          "name": "Clinic- Birth control",
+          "contactNumber": "9998850038",
+          "countryCode": "+91",
+          "addressLine1": "Ahmedabad",
+          "addressLine2": "Ahmedabad1",
+          "isActive": true,
+          "createdAt": "2024-01-25T08:17:20.743Z",
+          "region": {
+            "id": 35,
+            "isActive": true,
+            "name": "Stockholm"
+          }
+        },
+        {
+          "id": 33,
+          "name": "Soder",
+          "contactNumber": "123456",
+          "countryCode": "+46",
+          "addressLine1": "xyz",
+          "addressLine2": "test",
+          "isActive": false,
+          "createdAt": "2023-12-19T11:45:47.013Z",
+          "region": {
+            "id": 35,
+            "isActive": true,
+            "name": "Stockholm"
+          }
+        },
+        {
+          "id": 28,
+          "name": "Appolo",
+          "contactNumber": "123456789124",
+          "countryCode": "+46",
+          "addressLine1": "Ahmedabad",
+          "addressLine2": "Ahmedabad1",
+          "isActive": true,
+          "createdAt": "2023-12-06T12:34:28.281Z",
+          "region": {
+            "id": 35,
+            "isActive": true,
+            "name": "Stockholm"
+          }
+        },
+        {
+          "id": 26,
+          "name": "CIMS",
+          "contactNumber": "999885002",
+          "countryCode": null,
+          "addressLine1": "Ahmedabad",
+          "addressLine2": "Ahmedabad1",
+          "isActive": true,
+          "createdAt": "2023-11-29T10:38:43.978Z",
+          "region": {
+            "id": 35,
+            "isActive": true,
+            "name": "Stockholm"
+          }
+        },
+        {
+          "id": 25,
+          "name": "Sterling Clinic",
+          "contactNumber": "09998850023",
+          "countryCode": "+46",
+          "addressLine1": "Ahmedabad",
+          "addressLine2": "Ahmedabad1",
+          "isActive": true,
+          "createdAt": "2023-11-29T10:20:55.913Z",
+          "region": {
+            "id": 35,
+            "isActive": true,
+            "name": "Stockholm"
+          }
+        }
+      ]
+    }
+  }
+}
