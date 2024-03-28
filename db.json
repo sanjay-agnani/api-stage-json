@@ -188,7 +188,7 @@
 
   "clinics": {
     "data": {
-      "result": [
+      "results": [
         {
           "id": 40,
           "name": "New clinic ",
